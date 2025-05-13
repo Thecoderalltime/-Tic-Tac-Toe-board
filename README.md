@@ -4,7 +4,7 @@
 ##You can play the game by opening the link below
 
 
-[Play Game][https://tic-tac-toe-board-six.vercel.app/]
+Play Game : https://tic-tac-toe-board-six.vercel.app/
 
 
 
